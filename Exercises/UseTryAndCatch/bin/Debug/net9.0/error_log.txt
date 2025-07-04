@@ -1,0 +1,1 @@
+[2025-07-04 20:14:56]Podana wartośc nie jest liczbą całkowitą.

@@ -1,0 +1,15 @@
+C:\Users\piotr\source\repos\rental-managment-api\UseTryAndCatch\bin\Debug\net9.0\UseTryAndCatch.exe
+C:\Users\piotr\source\repos\rental-managment-api\UseTryAndCatch\bin\Debug\net9.0\UseTryAndCatch.deps.json
+C:\Users\piotr\source\repos\rental-managment-api\UseTryAndCatch\bin\Debug\net9.0\UseTryAndCatch.runtimeconfig.json
+C:\Users\piotr\source\repos\rental-managment-api\UseTryAndCatch\bin\Debug\net9.0\UseTryAndCatch.dll
+C:\Users\piotr\source\repos\rental-managment-api\UseTryAndCatch\bin\Debug\net9.0\UseTryAndCatch.pdb
+C:\Users\piotr\source\repos\rental-managment-api\UseTryAndCatch\obj\Debug\net9.0\UseTryAndCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\source\repos\rental-managment-api\UseTryAndCatch\obj\Debug\net9.0\UseTryAndCatch.AssemblyInfoInputs.cache
+C:\Users\piotr\source\repos\rental-managment-api\UseTryAndCatch\obj\Debug\net9.0\UseTryAndCatch.AssemblyInfo.cs
+C:\Users\piotr\source\repos\rental-managment-api\UseTryAndCatch\obj\Debug\net9.0\UseTryAndCatch.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\rental-managment-api\UseTryAndCatch\obj\Debug\net9.0\UseTryAndCatch.sourcelink.json
+C:\Users\piotr\source\repos\rental-managment-api\UseTryAndCatch\obj\Debug\net9.0\UseTryAndCatch.dll
+C:\Users\piotr\source\repos\rental-managment-api\UseTryAndCatch\obj\Debug\net9.0\refint\UseTryAndCatch.dll
+C:\Users\piotr\source\repos\rental-managment-api\UseTryAndCatch\obj\Debug\net9.0\UseTryAndCatch.pdb
+C:\Users\piotr\source\repos\rental-managment-api\UseTryAndCatch\obj\Debug\net9.0\UseTryAndCatch.genruntimeconfig.cache
+C:\Users\piotr\source\repos\rental-managment-api\UseTryAndCatch\obj\Debug\net9.0\ref\UseTryAndCatch.dll
