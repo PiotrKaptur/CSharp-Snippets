@@ -1,0 +1,15 @@
+C:\Users\piotr\source\repos\CSharp-Snippets\Exercises\TryAndCatch-1\bin\Debug\net9.0\TryAndCatch-1.exe
+C:\Users\piotr\source\repos\CSharp-Snippets\Exercises\TryAndCatch-1\bin\Debug\net9.0\TryAndCatch-1.deps.json
+C:\Users\piotr\source\repos\CSharp-Snippets\Exercises\TryAndCatch-1\bin\Debug\net9.0\TryAndCatch-1.runtimeconfig.json
+C:\Users\piotr\source\repos\CSharp-Snippets\Exercises\TryAndCatch-1\bin\Debug\net9.0\TryAndCatch-1.dll
+C:\Users\piotr\source\repos\CSharp-Snippets\Exercises\TryAndCatch-1\bin\Debug\net9.0\TryAndCatch-1.pdb
+C:\Users\piotr\source\repos\CSharp-Snippets\Exercises\TryAndCatch-1\obj\Debug\net9.0\TryAndCatch-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\source\repos\CSharp-Snippets\Exercises\TryAndCatch-1\obj\Debug\net9.0\TryAndCatch-1.AssemblyInfoInputs.cache
+C:\Users\piotr\source\repos\CSharp-Snippets\Exercises\TryAndCatch-1\obj\Debug\net9.0\TryAndCatch-1.AssemblyInfo.cs
+C:\Users\piotr\source\repos\CSharp-Snippets\Exercises\TryAndCatch-1\obj\Debug\net9.0\TryAndCatch-1.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\CSharp-Snippets\Exercises\TryAndCatch-1\obj\Debug\net9.0\TryAndCatch-1.sourcelink.json
+C:\Users\piotr\source\repos\CSharp-Snippets\Exercises\TryAndCatch-1\obj\Debug\net9.0\TryAndCatch-1.dll
+C:\Users\piotr\source\repos\CSharp-Snippets\Exercises\TryAndCatch-1\obj\Debug\net9.0\refint\TryAndCatch-1.dll
+C:\Users\piotr\source\repos\CSharp-Snippets\Exercises\TryAndCatch-1\obj\Debug\net9.0\TryAndCatch-1.pdb
+C:\Users\piotr\source\repos\CSharp-Snippets\Exercises\TryAndCatch-1\obj\Debug\net9.0\TryAndCatch-1.genruntimeconfig.cache
+C:\Users\piotr\source\repos\CSharp-Snippets\Exercises\TryAndCatch-1\obj\Debug\net9.0\ref\TryAndCatch-1.dll
