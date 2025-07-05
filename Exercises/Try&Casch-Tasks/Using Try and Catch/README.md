@@ -1,4 +1,6 @@
-# Napisz program w C#, który:
+# Cel zadania:
+
+### Napisz program w C#, który:
 
 - Poprosi użytkownika o podanie liczby całkowitej (jako tekst).
 
