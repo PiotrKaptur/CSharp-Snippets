@@ -1,3 +1,0 @@
-[2025-07-04 21:05:21]Podana wartość nie jest liczbą całkowitą.
-[2025-07-04 21:05:36]Podana wartość nie jest liczbą całkowitą.
-[2025-07-04 21:06:09]Podana wartość musi być rożna od zera!
