@@ -31,15 +31,13 @@ namespace Task_Silnia
             {
                 case "1":
                     {
-
-                        FunkcjaIteracyjna(number);
                         Console.WriteLine($"Silnia z liczby {number} wynosi: {FunkcjaIteracyjna(number)}");
-                        
-
                         break;
                     }
                 case "2":
                     {
+                        //FunkcjaRekurencyjna(number);
+                        Console.WriteLine($"Silnia z liczby {number} wybosi: {FunkcjaRekurencyjna(number)}");
                         break;
                     }
                 default:
@@ -58,6 +56,16 @@ namespace Task_Silnia
                 result *= i;
             }
             return result;
+        }
+
+        static BigInteger FunkcjaRekurencyjna(ulong number)
+        {
+            if (number == 0)
+            {
+                return 1;
+            }
+
+            return number * FunkcjaRekurencyjna(number - 1);
         }
 
 
