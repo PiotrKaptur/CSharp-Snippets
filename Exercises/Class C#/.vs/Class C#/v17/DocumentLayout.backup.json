@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\piotr\\source\\repos\\CSharp-Snippets\\Exercises\\Class C#\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EC9AF2B9-7678-42E9-BA35-10E5EAC874CE}|Class C#.csproj|c:\\users\\piotr\\source\\repos\\csharp-snippets\\exercises\\class c#\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9AF2B9-7678-42E9-BA35-10E5EAC874CE}|Class C#.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9AF2B9-7678-42E9-BA35-10E5EAC874CE}|Class C#.csproj|c:\\users\\piotr\\source\\repos\\csharp-snippets\\exercises\\class c#\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9AF2B9-7678-42E9-BA35-10E5EAC874CE}|Class C#.csproj|solutionrelative:group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EC9AF2B9-7678-42E9-BA35-10E5EAC874CE}|Class C#.csproj|c:\\users\\piotr\\source\\repos\\csharp-snippets\\exercises\\class c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC9AF2B9-7678-42E9-BA35-10E5EAC874CE}|Class C#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,11 +22,37 @@
       "DocumentGroups": [
         {
           "DockedHeight": 768,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\CSharp-Snippets\\Exercises\\Class C#\\Group.cs",
+              "RelativeDocumentMoniker": "Group.cs",
+              "ToolTip": "C:\\Users\\piotr\\source\\repos\\CSharp-Snippets\\Exercises\\Class C#\\Group.cs",
+              "RelativeToolTip": "Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T19:39:23.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\CSharp-Snippets\\Exercises\\Class C#\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\piotr\\source\\repos\\CSharp-Snippets\\Exercises\\Class C#\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T19:38:38.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\piotr\\source\\repos\\CSharp-Snippets\\Exercises\\Class C#\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

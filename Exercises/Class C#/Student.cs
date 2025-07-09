@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 public class Student
 {
@@ -17,7 +18,7 @@ public class Student
 
 	// Metody:
 
-	public void AssGrade(int grade)
+	public void AddGrade(int grade)
 	{
 		if(grade < 1 || grade > 5)
 		{
@@ -25,5 +26,31 @@ public class Student
 		}
         //W przeciwnym razie dodajemy ocenę
         Grades.Add(grade);
+    }
+
+	public double GetAverageGrade()
+	{
+		if(Grades.Count == 0)
+		{
+			return 0;
+		}
+
+		double sum = 0;
+		foreach(var grade in Grades)
+		{
+			sum += grade;
+		}
+
+		return sum / Grades.Count;
+	}
+
+    public override string ToString()
+    {
+
+		// Tworzymy string z ocenami za pomocą Linq!!!
+        var gradesList = Grades.Count > 0
+            ? string.Join(", ", Grades)
+            : "brak ocen";
+        return $"{FirstName} {LastName}, oceny: {gradesList}; średnia: {GetAverageGrade():0.00}";
     }
 }
